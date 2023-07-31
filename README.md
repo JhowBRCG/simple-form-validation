@@ -2,14 +2,20 @@
 
 <div align = 'center'>
     <img   src="src/imgs/desktop.png">
-    
 </div>
 
-<p align = 'center'>Este projeto consiste em uma simples validação de formúlario usando somente JavaScript puro.</p>
+<div align= 'center'>
+  <p>Este projeto consiste em uma simples validação de formúlario usando somente JavaScript puro.</p>
+  <img width = '150px'  src="https://skillicons.dev/icons?i=js,html,sass," />
+</div>
 
-<p align ='center'>
-<img width = '150px'  src="https://skillicons.dev/icons?i=js,html,sass," />
-</p>
+
+<br><br>
+    
+[Veja o Projeto](https://jhowbrcg.github.io/simple-form-validation/)
+ 
+
+
 
 <br><br>
 
