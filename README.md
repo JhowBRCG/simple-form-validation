@@ -1,7 +1,7 @@
 <h1 align ='center'>Simple Form Validation</h1>
 
 <div align = 'center'>
-    <img width="600"  src="src/imgs/desktop.png">
+    <img   src="src/imgs/desktop.png">
     
 </div>
 
