@@ -1,0 +1,48 @@
+@use "variables";
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@400;700;900&display=swap");
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-size: 1.6rem;
+  font-family: variables.$main-font;
+  color: variables.$primary-color;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: url(../imgs/bg-repeat.jpg);
+  background-repeat: repeat-x;
+  background-size: 100% 100%;
+  min-height: 100vh;
+  padding: 1rem;
+  overflow: hidden;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+input {
+  display: block;
+  border: 0;
+  outline: 0;
+}
+
+button {
+  display: block;
+  border: none;
+}
+
+textarea {
+  display: block;
+  border: 0;
+  outline: 0;
+}
